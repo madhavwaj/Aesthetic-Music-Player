@@ -1,1 +1,1 @@
-# Aesthetic-Music-Player
+# Cool Audio Edits Player
